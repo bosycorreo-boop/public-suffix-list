@@ -1,0 +1,118 @@
+// This Source Code Form is subject to the terms of the Mozilla Public
+// License, v. 2.0. If a copy of the MPL was not distributed with this
+// file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+// Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
+// rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
+
+// VERSION: 2026-09-02_06-03-53_UTC
+// COMMIT: 0f1fa47ec45056a19c2fdcd32a08442de9715d12
+
+// Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
+
+// ===BEGIN ICANN DOMAINS===
+
+// ac : http://nic.ac/rules.htm
+ac
+com.ac
+edu.ac
+gov.ac
+mil.ac
+net.ac
+org.ac
+
+// ad : https://www.iana.org/domains/root/db/ad.html
+// Confirmed by Amadeu Abril i Abril (CORE) <amadeu.abril@corenic.org> 2024-11-17
+ad
+
+// ae : https://www.iana.org/domains/root/db/ae.html
+ae
+ac.ae
+co.ae
+gov.ae
+mil.ae
+net.ae
+org.ae
+sch.ae
+
+// aero : https://information.aero/registration/policies/dmp
+aero
+// 2LDs
+airline.aero
+airport.aero
+// 2LDs (currently not accepting registration, seemingly never have)
+// As of 2024-07, these are marked as reserved for potential 3LD
+// registrations (clause 11 "allocated subdomains" in the 2006 TLD
+// policy), but the relevant industry partners have not opened them up
+// for registration. Current status can be determined from the TLD's
+// policy document: 2LDs that are open for registration must list
+// their policy in the TLD's policy. Any 2LD without such a policy is
+// not open for registrations.
+accident-investigation.aero
+accident-prevention.aero
+aerobatic.aero
+aeroclub.aero
+aerodrome.aero
+agents.aero
+air-surveillance.aero
+air-traffic-control.aero
+aircraft.aero
+airtraffic.aero
+ambulance.aero
+association.aero
+author.aero
+ballooning.aero
+broker.aero
+caa.aero
+cargo.aero
+catering.aero
+certification.aero
+championship.aero
+charter.aero
+civilaviation.aero
+club.aero
+conference.aero
+consultant.aero
+consulting.aero
+control.aero
+council.aero
+crew.aero
+design.aero
+dgca.aero
+educator.aero
+emergency.aero
+engine.aero
+engineer.aero
+entertainment.aero
+equipment.aero
+exchange.aero
+express.aero
+federation.aero
+flight.aero
+freight.aero
+fuel.aero
+gliding.aero
+government.aero
+groundhandling.aero
+group.aero
+hanggliding.aero
+homebuilt.aero
+insurance.aero
+journal.aero
+journalist.aero
+leasing.aero
+logistics.aero
+magazine.aero
+maintenance.aero
+marketplace.aero
+media.aero
+microlight.aero
+modelling.aero
+navigation.aero
+parachuting.aero
+paragliding.aero
+passenger-association.aero
+pilot.aero
+press.aero
+production.aero
+recreation.aero
